@@ -1,6 +1,6 @@
 {
-  "name": "typescrypt-test",
-  "version": "1.0.2",
+  "name": "sp-ts-test",
+  "version": "1.0.0",
   "description": "a simple typescript testing library that don't require any configuration",
   "main": "index.ts",
   "scripts": {
