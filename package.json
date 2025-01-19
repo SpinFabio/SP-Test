@@ -1,0 +1,19 @@
+{
+  "name": "typescrypt-test",
+  "version": "1.0.2",
+  "description": "a simple typescript testing library that don't require any configuration",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sp-test",
+    "test"
+  ],
+  "author": "Fabio Spinelli",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "typescript": "^5.7.3"
+  }
+}
